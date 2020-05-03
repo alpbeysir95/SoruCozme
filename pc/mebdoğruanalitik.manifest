@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 293336610
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 890fe1cfb72098812b9316ceda849e93
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 693fa3ee2f9e6b248ab29203ef7ca1e8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c1b917d9e25b7b49af14866428fdb7e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/MEBDo\u011FruAnalitik.asset"
+- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/Screenshot_3.png"
+- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/Screenshot_6.png"
+- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/Screenshot_1.png"
+- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/Screenshot_12.png"
+- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/Screenshot_9.png"
+- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/Screenshot_5.png"
+- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/Screenshot_2.png"
+- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/Screenshot_10.png"
+- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/Screenshot_8.png"
+- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/Screenshot_11.png"
+- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/Screenshot_7.png"
+- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/Screenshot_4.png"
+Dependencies: []

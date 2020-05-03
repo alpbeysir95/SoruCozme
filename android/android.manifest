@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3172170349
+CRC: 2093356341
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -16,4 +16,25 @@ AssetBundleManifest:
       Dependencies: {}
     Info_4:
       Name: geometri1
+      Dependencies: {}
+    Info_5:
+      Name: geometri2
+      Dependencies: {}
+    Info_6:
+      Name: fen11tekrar
+      Dependencies: {}
+    Info_7:
+      Name: meb12trigonometri
+      Dependencies: {}
+    Info_8:
+      Name: "mebdola\u015F\u0131m"
+      Dependencies: {}
+    Info_9:
+      Name: "mebdo\u011Fruanalitik"
+      Dependencies: {}
+    Info_10:
+      Name: "mebkimyasalh\u0131z"
+      Dependencies: {}
+    Info_11:
+      Name: mebtorkdenge
       Dependencies: {}

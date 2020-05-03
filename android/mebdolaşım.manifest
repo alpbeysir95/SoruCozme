@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2444734674
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0a5b736fcf6c30f798961da2d3ba6f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 693fa3ee2f9e6b248ab29203ef7ca1e8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c1b917d9e25b7b49af14866428fdb7e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- "Assets/S\u0131navlar/MEBDola\u015F\u0131mSistemi/Screenshot_8.png"
+- "Assets/S\u0131navlar/MEBDola\u015F\u0131mSistemi/Screenshot_12.png"
+- "Assets/S\u0131navlar/MEBDola\u015F\u0131mSistemi/Screenshot_7.png"
+- "Assets/S\u0131navlar/MEBDola\u015F\u0131mSistemi/Screenshot_9.png"
+- "Assets/S\u0131navlar/MEBDola\u015F\u0131mSistemi/Screenshot_4.png"
+- "Assets/S\u0131navlar/MEBDola\u015F\u0131mSistemi/Screenshot_5.png"
+- "Assets/S\u0131navlar/MEBDola\u015F\u0131mSistemi/Screenshot_1.png"
+- "Assets/S\u0131navlar/MEBDola\u015F\u0131mSistemi/Screenshot_11.png"
+- "Assets/S\u0131navlar/MEBDola\u015F\u0131mSistemi/Screenshot_2.png"
+- "Assets/S\u0131navlar/MEBDola\u015F\u0131mSistemi/Screenshot_10.png"
+- "Assets/S\u0131navlar/MEBDola\u015F\u0131mSistemi/Screenshot_6.png"
+- "Assets/S\u0131navlar/MEBDola\u015F\u0131mSistemi/MEBDola\u015F\u0131m.asset"
+- "Assets/S\u0131navlar/MEBDola\u015F\u0131mSistemi/Screenshot_3.png"
+Dependencies: []

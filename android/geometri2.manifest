@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2300384862
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7785dbb322aaeb41642c969a1187ebe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 693fa3ee2f9e6b248ab29203ef7ca1e8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c1b917d9e25b7b49af14866428fdb7e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- "Assets/S\u0131navlar/Geometri2/Screenshot_8.png"
+- "Assets/S\u0131navlar/Geometri2/Screenshot_10.png"
+- "Assets/S\u0131navlar/Geometri2/Screenshot_3.png"
+- "Assets/S\u0131navlar/Geometri2/Screenshot_7.png"
+- "Assets/S\u0131navlar/Geometri2/Screenshot_4.png"
+- "Assets/S\u0131navlar/Geometri2/Screenshot_5.png"
+- "Assets/S\u0131navlar/Geometri2/Screenshot_1.png"
+- "Assets/S\u0131navlar/Geometri2/Screenshot_9.png"
+- "Assets/S\u0131navlar/Geometri2/Geometri2.asset"
+- "Assets/S\u0131navlar/Geometri2/Screenshot_2.png"
+- "Assets/S\u0131navlar/Geometri2/Screenshot_6.png"
+Dependencies: []

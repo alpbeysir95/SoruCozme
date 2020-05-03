@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 345592411
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9df544f4bdf586dd362d70d00fd35f5b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 693fa3ee2f9e6b248ab29203ef7ca1e8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c1b917d9e25b7b49af14866428fdb7e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- "Assets/S\u0131navlar/Fen11Tekrar/Screenshot_10.png"
+- "Assets/S\u0131navlar/Fen11Tekrar/Screenshot_2.png"
+- "Assets/S\u0131navlar/Fen11Tekrar/Screenshot_20.png"
+- "Assets/S\u0131navlar/Fen11Tekrar/Screenshot_3.png"
+- "Assets/S\u0131navlar/Fen11Tekrar/Screenshot_17.png"
+- "Assets/S\u0131navlar/Fen11Tekrar/Screenshot_15.png"
+- "Assets/S\u0131navlar/Fen11Tekrar/Screenshot_23.png"
+- "Assets/S\u0131navlar/Fen11Tekrar/Screenshot_8.png"
+- "Assets/S\u0131navlar/Fen11Tekrar/Screenshot_5.png"
+- "Assets/S\u0131navlar/Fen11Tekrar/Screenshot_9.png"
+- "Assets/S\u0131navlar/Fen11Tekrar/Screenshot_14.png"
+- "Assets/S\u0131navlar/Fen11Tekrar/Screenshot_11.png"
+- "Assets/S\u0131navlar/Fen11Tekrar/Screenshot_18.png"
+- "Assets/S\u0131navlar/Fen11Tekrar/Screenshot_4.png"
+- "Assets/S\u0131navlar/Fen11Tekrar/Fen11Tekrar.asset"
+- "Assets/S\u0131navlar/Fen11Tekrar/Screenshot_22.png"
+- "Assets/S\u0131navlar/Fen11Tekrar/Screenshot_16.png"
+- "Assets/S\u0131navlar/Fen11Tekrar/Screenshot_24.png"
+- "Assets/S\u0131navlar/Fen11Tekrar/Screenshot_12.png"
+- "Assets/S\u0131navlar/Fen11Tekrar/Screenshot_19.png"
+- "Assets/S\u0131navlar/Fen11Tekrar/Screenshot_1.png"
+- "Assets/S\u0131navlar/Fen11Tekrar/Screenshot_6.png"
+- "Assets/S\u0131navlar/Fen11Tekrar/Screenshot_21.png"
+- "Assets/S\u0131navlar/Fen11Tekrar/Screenshot_13.png"
+- "Assets/S\u0131navlar/Fen11Tekrar/Screenshot_7.png"
+Dependencies: []
