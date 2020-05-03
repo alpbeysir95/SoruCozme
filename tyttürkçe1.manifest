@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 959590366
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 442e983544aa0230adc4168fcc1c4081
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 693fa3ee2f9e6b248ab29203ef7ca1e8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c1b917d9e25b7b49af14866428fdb7e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_10.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_33.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_37.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_4.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_18.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_27.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_40.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_31.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_39.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_36.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_30.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_14.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_16.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_21.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_3.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1.asset"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_22.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_25.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_29.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_7.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_5.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_8.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_1.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_28.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_17.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_35.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_15.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_19.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_13.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_6.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_12.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_24.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_26.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_11.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_38.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_23.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_20.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_9.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_34.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_32.png"
+- "Assets/S\u0131navlar/TYTT\xFCrk\xE7e1/Screenshot_2.png"
+Dependencies: []
