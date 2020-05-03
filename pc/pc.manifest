@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 882856739
+CRC: 3513086168
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -34,4 +34,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_10:
       Name: mebtorkdenge
+      Dependencies: {}
+    Info_11:
+      Name: meb11full
       Dependencies: {}
