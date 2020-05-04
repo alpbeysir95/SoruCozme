@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3776801517
+CRC: 2887796221
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1af0385f1882a6fe02876e0362f1a291
+    Hash: 02d0e17ffaa32f4b2663304244fc561d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 693fa3ee2f9e6b248ab29203ef7ca1e8
@@ -18,15 +18,15 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- "Assets/S\u0131navlar/Geometri1/Screenshot_5.png"
-- "Assets/S\u0131navlar/Geometri1/Screenshot_3.png"
-- "Assets/S\u0131navlar/Geometri1/Geometri1.asset"
-- "Assets/S\u0131navlar/Geometri1/Screenshot_10.png"
-- "Assets/S\u0131navlar/Geometri1/Screenshot_8.png"
-- "Assets/S\u0131navlar/Geometri1/Screenshot_7.png"
-- "Assets/S\u0131navlar/Geometri1/Screenshot_2.png"
-- "Assets/S\u0131navlar/Geometri1/Screenshot_9.png"
-- "Assets/S\u0131navlar/Geometri1/Screenshot_4.png"
-- "Assets/S\u0131navlar/Geometri1/Screenshot_6.png"
-- "Assets/S\u0131navlar/Geometri1/Screenshot_1.png"
+- "Assets/S\u0131navlar/Denemeler/Geometri1/Screenshot_5.png"
+- "Assets/S\u0131navlar/Denemeler/Geometri1/Screenshot_3.png"
+- "Assets/S\u0131navlar/Denemeler/Geometri1/Geometri1.asset"
+- "Assets/S\u0131navlar/Denemeler/Geometri1/Screenshot_10.png"
+- "Assets/S\u0131navlar/Denemeler/Geometri1/Screenshot_8.png"
+- "Assets/S\u0131navlar/Denemeler/Geometri1/Screenshot_7.png"
+- "Assets/S\u0131navlar/Denemeler/Geometri1/Screenshot_2.png"
+- "Assets/S\u0131navlar/Denemeler/Geometri1/Screenshot_9.png"
+- "Assets/S\u0131navlar/Denemeler/Geometri1/Screenshot_4.png"
+- "Assets/S\u0131navlar/Denemeler/Geometri1/Screenshot_6.png"
+- "Assets/S\u0131navlar/Denemeler/Geometri1/Screenshot_1.png"
 Dependencies: []
