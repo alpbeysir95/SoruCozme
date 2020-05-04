@@ -2,6 +2,7 @@ fen11tekrar
 geometri1
 geometri2
 meb11full
+meb12trigonometri2
 mebdolaşım
 mebdoğruanalitik
 mebkimyasalhız
