@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1804452767
+CRC: 3288684245
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d2f747fec60099daafa48366eb5d71d5
+    Hash: a2b3f763da18a5c717e52d205594d101
   TypeTreeHash:
     serializedVersion: 2
     Hash: 693fa3ee2f9e6b248ab29203ef7ca1e8
@@ -18,25 +18,25 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- "Assets/S\u0131navlar/TrigonometriKolay/TrigonometriKolay.asset"
-- "Assets/S\u0131navlar/TrigonometriKolay/Screenshot_9.png"
-- "Assets/S\u0131navlar/TrigonometriKolay/Screenshot_2.png"
-- "Assets/S\u0131navlar/TrigonometriKolay/Screenshot_11.png"
-- "Assets/S\u0131navlar/TrigonometriKolay/Soru2.PNG"
-- "Assets/S\u0131navlar/TrigonometriKolay/Screenshot_8.png"
-- "Assets/S\u0131navlar/TrigonometriKolay/Screenshot_7.png"
-- "Assets/S\u0131navlar/TrigonometriKolay/Screenshot_12.png"
-- "Assets/S\u0131navlar/TrigonometriKolay/Soru3.PNG"
-- "Assets/S\u0131navlar/TrigonometriKolay/Screenshot_6.png"
-- "Assets/S\u0131navlar/TrigonometriKolay/Screenshot_5.png"
-- "Assets/S\u0131navlar/TrigonometriKolay/Screenshot_4.png"
-- "Assets/S\u0131navlar/TrigonometriKolay/Screenshot_3.png"
-- "Assets/S\u0131navlar/TrigonometriKolay/Screenshot_10.png"
-- "Assets/S\u0131navlar/TrigonometriKolay/Screenshot_1.png"
-- "Assets/S\u0131navlar/TrigonometriKolay/Soru4.PNG"
-- "Assets/S\u0131navlar/TrigonometriKolay/Screenshot_16.png"
-- "Assets/S\u0131navlar/TrigonometriKolay/Screenshot_15.png"
-- "Assets/S\u0131navlar/TrigonometriKolay/Screenshot_13.png"
-- "Assets/S\u0131navlar/TrigonometriKolay/Screenshot_14.png"
-- "Assets/S\u0131navlar/TrigonometriKolay/Soru1.PNG"
+- "Assets/S\u0131navlar/Testler/TrigonometriKolay/TrigonometriKolay.asset"
+- "Assets/S\u0131navlar/Testler/TrigonometriKolay/Screenshot_9.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriKolay/Screenshot_2.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriKolay/Screenshot_11.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriKolay/Soru2.PNG"
+- "Assets/S\u0131navlar/Testler/TrigonometriKolay/Screenshot_8.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriKolay/Screenshot_7.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriKolay/Screenshot_12.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriKolay/Soru3.PNG"
+- "Assets/S\u0131navlar/Testler/TrigonometriKolay/Screenshot_6.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriKolay/Screenshot_5.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriKolay/Screenshot_4.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriKolay/Screenshot_3.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriKolay/Screenshot_10.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriKolay/Screenshot_1.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriKolay/Soru4.PNG"
+- "Assets/S\u0131navlar/Testler/TrigonometriKolay/Screenshot_16.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriKolay/Screenshot_15.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriKolay/Screenshot_13.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriKolay/Screenshot_14.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriKolay/Soru1.PNG"
 Dependencies: []

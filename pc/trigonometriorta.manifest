@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 445380330
+CRC: 3996532108
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 21d2e622cf77129419bac38391bd408d
+    Hash: 87d200b968a1e34f8362f3776cd61050
   TypeTreeHash:
     serializedVersion: 2
     Hash: 693fa3ee2f9e6b248ab29203ef7ca1e8
@@ -18,25 +18,25 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- "Assets/S\u0131navlar/TrigonometriOrta/Screenshot_18.png"
-- "Assets/S\u0131navlar/TrigonometriOrta/Screenshot_7.png"
-- "Assets/S\u0131navlar/TrigonometriOrta/Screenshot_4.png"
-- "Assets/S\u0131navlar/TrigonometriOrta/Screenshot_19.png"
-- "Assets/S\u0131navlar/TrigonometriOrta/Screenshot_5.png"
-- "Assets/S\u0131navlar/TrigonometriOrta/Screenshot_20.png"
-- "Assets/S\u0131navlar/TrigonometriOrta/Screenshot_14.png"
-- "Assets/S\u0131navlar/TrigonometriOrta/Screenshot_3.png"
-- "Assets/S\u0131navlar/TrigonometriOrta/Screenshot_10.png"
-- "Assets/S\u0131navlar/TrigonometriOrta/Screenshot_8.png"
-- "Assets/S\u0131navlar/TrigonometriOrta/Screenshot_16.png"
-- "Assets/S\u0131navlar/TrigonometriOrta/Screenshot_12.png"
-- "Assets/S\u0131navlar/TrigonometriOrta/Screenshot_11.png"
-- "Assets/S\u0131navlar/TrigonometriOrta/Screenshot_15.png"
-- "Assets/S\u0131navlar/TrigonometriOrta/Screenshot_6.png"
-- "Assets/S\u0131navlar/TrigonometriOrta/Screenshot_1.png"
-- "Assets/S\u0131navlar/TrigonometriOrta/Screenshot_13.png"
-- "Assets/S\u0131navlar/TrigonometriOrta/Screenshot_9.png"
-- "Assets/S\u0131navlar/TrigonometriOrta/TrigonometriOrta.asset"
-- "Assets/S\u0131navlar/TrigonometriOrta/Screenshot_2.png"
-- "Assets/S\u0131navlar/TrigonometriOrta/Screenshot_17.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriOrta/Screenshot_18.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriOrta/Screenshot_7.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriOrta/Screenshot_4.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriOrta/Screenshot_19.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriOrta/Screenshot_5.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriOrta/Screenshot_20.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriOrta/Screenshot_14.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriOrta/Screenshot_3.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriOrta/Screenshot_10.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriOrta/Screenshot_8.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriOrta/Screenshot_16.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriOrta/Screenshot_12.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriOrta/Screenshot_11.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriOrta/Screenshot_15.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriOrta/Screenshot_6.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriOrta/Screenshot_1.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriOrta/Screenshot_13.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriOrta/Screenshot_9.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriOrta/TrigonometriOrta.asset"
+- "Assets/S\u0131navlar/Testler/TrigonometriOrta/Screenshot_2.png"
+- "Assets/S\u0131navlar/Testler/TrigonometriOrta/Screenshot_17.png"
 Dependencies: []
