@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2631960757
+CRC: 1108422837
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -40,4 +40,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_12:
       Name: meb12trigonometri2
+      Dependencies: {}
+    Info_13:
+      Name: mebparabol
       Dependencies: {}
