@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1409138044
+CRC: 4286079221
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -49,4 +49,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_15:
       Name: mebelektrikalan
+      Dependencies: {}
+    Info_16:
+      Name: mebelektrikpotansiyel
       Dependencies: {}
