@@ -6,6 +6,7 @@ meb11trigtekrar
 meb12trigonometri2
 mebdolaşım
 mebdoğruanalitik
+mebelektrikalan
 mebkimyasalhız
 mebparabol
 mebtaritmetiği

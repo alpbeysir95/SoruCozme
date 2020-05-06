@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1727215671
+CRC: 1409138044
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -46,4 +46,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_14:
       Name: meb11trigtekrar
+      Dependencies: {}
+    Info_15:
+      Name: mebelektrikalan
       Dependencies: {}
