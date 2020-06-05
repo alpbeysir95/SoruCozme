@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1707097797
+CRC: 948583802
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2e50e8eb792c847634c359578a18bf2d
+    Hash: 3c1c424ae7790b29eb4da15f3838f468
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 693fa3ee2f9e6b248ab29203ef7ca1e8
+    Hash: 3da982f53e6e54c79d442ef4fb7d352e
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -18,17 +18,17 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- "Assets/S\u0131navlar/Testler/MEBParabol/Screenshot_3.png"
-- "Assets/S\u0131navlar/Testler/MEBParabol/MEBParabol.asset"
-- "Assets/S\u0131navlar/Testler/MEBParabol/Screenshot_1.png"
-- "Assets/S\u0131navlar/Testler/MEBParabol/Screenshot_10.png"
-- "Assets/S\u0131navlar/Testler/MEBParabol/Screenshot_11.png"
-- "Assets/S\u0131navlar/Testler/MEBParabol/Screenshot_5.png"
-- "Assets/S\u0131navlar/Testler/MEBParabol/Screenshot_9.png"
-- "Assets/S\u0131navlar/Testler/MEBParabol/Screenshot_4.png"
-- "Assets/S\u0131navlar/Testler/MEBParabol/Screenshot_6.png"
-- "Assets/S\u0131navlar/Testler/MEBParabol/Screenshot_7.png"
-- "Assets/S\u0131navlar/Testler/MEBParabol/Screenshot_2.png"
-- "Assets/S\u0131navlar/Testler/MEBParabol/Screenshot_8.png"
-- "Assets/S\u0131navlar/Testler/MEBParabol/Screenshot_12.png"
+- "Assets/S\u0131navlar/MEBParabol/Screenshot_3.png"
+- "Assets/S\u0131navlar/MEBParabol/MEBParabol.asset"
+- "Assets/S\u0131navlar/MEBParabol/Screenshot_1.png"
+- "Assets/S\u0131navlar/MEBParabol/Screenshot_10.png"
+- "Assets/S\u0131navlar/MEBParabol/Screenshot_11.png"
+- "Assets/S\u0131navlar/MEBParabol/Screenshot_5.png"
+- "Assets/S\u0131navlar/MEBParabol/Screenshot_9.png"
+- "Assets/S\u0131navlar/MEBParabol/Screenshot_4.png"
+- "Assets/S\u0131navlar/MEBParabol/Screenshot_6.png"
+- "Assets/S\u0131navlar/MEBParabol/Screenshot_7.png"
+- "Assets/S\u0131navlar/MEBParabol/Screenshot_2.png"
+- "Assets/S\u0131navlar/MEBParabol/Screenshot_8.png"
+- "Assets/S\u0131navlar/MEBParabol/Screenshot_12.png"
 Dependencies: []

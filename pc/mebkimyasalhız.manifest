@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3471941081
+CRC: 4133974320
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3803ce21dd04785f3b6e542ba550a7c5
+    Hash: 2e33757ebae5b5df9be834d34090c88b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 693fa3ee2f9e6b248ab29203ef7ca1e8
+    Hash: 3da982f53e6e54c79d442ef4fb7d352e
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -18,17 +18,17 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- "Assets/S\u0131navlar/Testler/MEBKimyasalH\u0131z/Screenshot_8.png"
-- "Assets/S\u0131navlar/Testler/MEBKimyasalH\u0131z/MEBKimyasalH\u0131z.asset"
-- "Assets/S\u0131navlar/Testler/MEBKimyasalH\u0131z/Screenshot_1.png"
-- "Assets/S\u0131navlar/Testler/MEBKimyasalH\u0131z/Screenshot_7.png"
-- "Assets/S\u0131navlar/Testler/MEBKimyasalH\u0131z/Screenshot_10.png"
-- "Assets/S\u0131navlar/Testler/MEBKimyasalH\u0131z/Screenshot_2.png"
-- "Assets/S\u0131navlar/Testler/MEBKimyasalH\u0131z/Screenshot_12.png"
-- "Assets/S\u0131navlar/Testler/MEBKimyasalH\u0131z/Screenshot_5.png"
-- "Assets/S\u0131navlar/Testler/MEBKimyasalH\u0131z/Screenshot_3.png"
-- "Assets/S\u0131navlar/Testler/MEBKimyasalH\u0131z/Screenshot_6.png"
-- "Assets/S\u0131navlar/Testler/MEBKimyasalH\u0131z/Screenshot_9.png"
-- "Assets/S\u0131navlar/Testler/MEBKimyasalH\u0131z/Screenshot_4.png"
-- "Assets/S\u0131navlar/Testler/MEBKimyasalH\u0131z/Screenshot_11.png"
+- "Assets/S\u0131navlar/MEBKimyasalH\u0131z/Screenshot_8.png"
+- "Assets/S\u0131navlar/MEBKimyasalH\u0131z/MEBKimyasalH\u0131z.asset"
+- "Assets/S\u0131navlar/MEBKimyasalH\u0131z/Screenshot_1.png"
+- "Assets/S\u0131navlar/MEBKimyasalH\u0131z/Screenshot_7.png"
+- "Assets/S\u0131navlar/MEBKimyasalH\u0131z/Screenshot_10.png"
+- "Assets/S\u0131navlar/MEBKimyasalH\u0131z/Screenshot_2.png"
+- "Assets/S\u0131navlar/MEBKimyasalH\u0131z/Screenshot_12.png"
+- "Assets/S\u0131navlar/MEBKimyasalH\u0131z/Screenshot_5.png"
+- "Assets/S\u0131navlar/MEBKimyasalH\u0131z/Screenshot_3.png"
+- "Assets/S\u0131navlar/MEBKimyasalH\u0131z/Screenshot_6.png"
+- "Assets/S\u0131navlar/MEBKimyasalH\u0131z/Screenshot_9.png"
+- "Assets/S\u0131navlar/MEBKimyasalH\u0131z/Screenshot_4.png"
+- "Assets/S\u0131navlar/MEBKimyasalH\u0131z/Screenshot_11.png"
 Dependencies: []

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2704060464
+CRC: 618546349
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f58e1f97839db78d1075d554f6b049b2
+    Hash: 6f4bc79e7d28ee825b7d5da8e6f8a60b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 693fa3ee2f9e6b248ab29203ef7ca1e8
+    Hash: 3da982f53e6e54c79d442ef4fb7d352e
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -18,17 +18,17 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- "Assets/S\u0131navlar/Testler/MEBTAritmeti\u011Fi/Screenshot_3.png"
-- "Assets/S\u0131navlar/Testler/MEBTAritmeti\u011Fi/Screenshot_7.png"
-- "Assets/S\u0131navlar/Testler/MEBTAritmeti\u011Fi/Screenshot_9.png"
-- "Assets/S\u0131navlar/Testler/MEBTAritmeti\u011Fi/Screenshot_1.png"
-- "Assets/S\u0131navlar/Testler/MEBTAritmeti\u011Fi/Screenshot_4.png"
-- "Assets/S\u0131navlar/Testler/MEBTAritmeti\u011Fi/Screenshot_12.png"
-- "Assets/S\u0131navlar/Testler/MEBTAritmeti\u011Fi/Screenshot_8.png"
-- "Assets/S\u0131navlar/Testler/MEBTAritmeti\u011Fi/MEBTAritmeti\u011Fi.asset"
-- "Assets/S\u0131navlar/Testler/MEBTAritmeti\u011Fi/Screenshot_11.png"
-- "Assets/S\u0131navlar/Testler/MEBTAritmeti\u011Fi/Screenshot_10.png"
-- "Assets/S\u0131navlar/Testler/MEBTAritmeti\u011Fi/Screenshot_6.png"
-- "Assets/S\u0131navlar/Testler/MEBTAritmeti\u011Fi/Screenshot_2.png"
-- "Assets/S\u0131navlar/Testler/MEBTAritmeti\u011Fi/Screenshot_5.png"
+- "Assets/S\u0131navlar/MEBTAritmeti\u011Fi/Screenshot_3.png"
+- "Assets/S\u0131navlar/MEBTAritmeti\u011Fi/Screenshot_7.png"
+- "Assets/S\u0131navlar/MEBTAritmeti\u011Fi/Screenshot_9.png"
+- "Assets/S\u0131navlar/MEBTAritmeti\u011Fi/Screenshot_1.png"
+- "Assets/S\u0131navlar/MEBTAritmeti\u011Fi/Screenshot_4.png"
+- "Assets/S\u0131navlar/MEBTAritmeti\u011Fi/Screenshot_12.png"
+- "Assets/S\u0131navlar/MEBTAritmeti\u011Fi/Screenshot_8.png"
+- "Assets/S\u0131navlar/MEBTAritmeti\u011Fi/MEBTAritmeti\u011Fi.asset"
+- "Assets/S\u0131navlar/MEBTAritmeti\u011Fi/Screenshot_11.png"
+- "Assets/S\u0131navlar/MEBTAritmeti\u011Fi/Screenshot_10.png"
+- "Assets/S\u0131navlar/MEBTAritmeti\u011Fi/Screenshot_6.png"
+- "Assets/S\u0131navlar/MEBTAritmeti\u011Fi/Screenshot_2.png"
+- "Assets/S\u0131navlar/MEBTAritmeti\u011Fi/Screenshot_5.png"
 Dependencies: []

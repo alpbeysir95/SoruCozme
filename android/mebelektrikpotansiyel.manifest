@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4151262411
+CRC: 2557383089
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7f43f65badff8d8070f85ed8aad3d589
+    Hash: 293bd926d0838c79d0dd26d21a06f2b1
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 693fa3ee2f9e6b248ab29203ef7ca1e8
+    Hash: 3da982f53e6e54c79d442ef4fb7d352e
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -18,17 +18,17 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- "Assets/S\u0131navlar/Testler/MEBElektrikPotansiyel/MEBElektrikPotansiyel.asset"
-- "Assets/S\u0131navlar/Testler/MEBElektrikPotansiyel/Screenshot_5.png"
-- "Assets/S\u0131navlar/Testler/MEBElektrikPotansiyel/Screenshot_2.png"
-- "Assets/S\u0131navlar/Testler/MEBElektrikPotansiyel/Screenshot_4.png"
-- "Assets/S\u0131navlar/Testler/MEBElektrikPotansiyel/Screenshot_3.png"
-- "Assets/S\u0131navlar/Testler/MEBElektrikPotansiyel/Screenshot_7.png"
-- "Assets/S\u0131navlar/Testler/MEBElektrikPotansiyel/Screenshot_8.png"
-- "Assets/S\u0131navlar/Testler/MEBElektrikPotansiyel/Screenshot_1.png"
-- "Assets/S\u0131navlar/Testler/MEBElektrikPotansiyel/Screenshot_9.png"
-- "Assets/S\u0131navlar/Testler/MEBElektrikPotansiyel/Screenshot_12.png"
-- "Assets/S\u0131navlar/Testler/MEBElektrikPotansiyel/Screenshot_10.png"
-- "Assets/S\u0131navlar/Testler/MEBElektrikPotansiyel/Screenshot_11.png"
-- "Assets/S\u0131navlar/Testler/MEBElektrikPotansiyel/Screenshot_6.png"
+- "Assets/S\u0131navlar/MEBElektrikPotansiyel/MEBElektrikPotansiyel.asset"
+- "Assets/S\u0131navlar/MEBElektrikPotansiyel/Screenshot_5.png"
+- "Assets/S\u0131navlar/MEBElektrikPotansiyel/Screenshot_2.png"
+- "Assets/S\u0131navlar/MEBElektrikPotansiyel/Screenshot_4.png"
+- "Assets/S\u0131navlar/MEBElektrikPotansiyel/Screenshot_3.png"
+- "Assets/S\u0131navlar/MEBElektrikPotansiyel/Screenshot_7.png"
+- "Assets/S\u0131navlar/MEBElektrikPotansiyel/Screenshot_8.png"
+- "Assets/S\u0131navlar/MEBElektrikPotansiyel/Screenshot_1.png"
+- "Assets/S\u0131navlar/MEBElektrikPotansiyel/Screenshot_9.png"
+- "Assets/S\u0131navlar/MEBElektrikPotansiyel/Screenshot_12.png"
+- "Assets/S\u0131navlar/MEBElektrikPotansiyel/Screenshot_10.png"
+- "Assets/S\u0131navlar/MEBElektrikPotansiyel/Screenshot_11.png"
+- "Assets/S\u0131navlar/MEBElektrikPotansiyel/Screenshot_6.png"
 Dependencies: []

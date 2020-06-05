@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1615946994
+CRC: 581413073
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8b09c418f148077d88674d72eee828e3
+    Hash: e22e116453319dc2fac2935f70fbc8c1
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 693fa3ee2f9e6b248ab29203ef7ca1e8
+    Hash: 3da982f53e6e54c79d442ef4fb7d352e
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -18,17 +18,17 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- "Assets/S\u0131navlar/Testler/MEBElektrikAlan/Screenshot_10.png"
-- "Assets/S\u0131navlar/Testler/MEBElektrikAlan/Screenshot_6.png"
-- "Assets/S\u0131navlar/Testler/MEBElektrikAlan/Screenshot_5.png"
-- "Assets/S\u0131navlar/Testler/MEBElektrikAlan/Screenshot_7.png"
-- "Assets/S\u0131navlar/Testler/MEBElektrikAlan/Screenshot_4.png"
-- "Assets/S\u0131navlar/Testler/MEBElektrikAlan/Screenshot_9.png"
-- "Assets/S\u0131navlar/Testler/MEBElektrikAlan/Screenshot_11.png"
-- "Assets/S\u0131navlar/Testler/MEBElektrikAlan/Screenshot_2.png"
-- "Assets/S\u0131navlar/Testler/MEBElektrikAlan/Screenshot_3.png"
-- "Assets/S\u0131navlar/Testler/MEBElektrikAlan/Screenshot_12.png"
-- "Assets/S\u0131navlar/Testler/MEBElektrikAlan/Screenshot_8.png"
-- "Assets/S\u0131navlar/Testler/MEBElektrikAlan/Screenshot_1.png"
-- "Assets/S\u0131navlar/Testler/MEBElektrikAlan/MEBElektrikAlan.asset"
+- "Assets/S\u0131navlar/MEBElektrikAlan/Screenshot_10.png"
+- "Assets/S\u0131navlar/MEBElektrikAlan/Screenshot_6.png"
+- "Assets/S\u0131navlar/MEBElektrikAlan/Screenshot_5.png"
+- "Assets/S\u0131navlar/MEBElektrikAlan/Screenshot_7.png"
+- "Assets/S\u0131navlar/MEBElektrikAlan/Screenshot_4.png"
+- "Assets/S\u0131navlar/MEBElektrikAlan/Screenshot_9.png"
+- "Assets/S\u0131navlar/MEBElektrikAlan/Screenshot_11.png"
+- "Assets/S\u0131navlar/MEBElektrikAlan/Screenshot_2.png"
+- "Assets/S\u0131navlar/MEBElektrikAlan/Screenshot_3.png"
+- "Assets/S\u0131navlar/MEBElektrikAlan/Screenshot_12.png"
+- "Assets/S\u0131navlar/MEBElektrikAlan/Screenshot_8.png"
+- "Assets/S\u0131navlar/MEBElektrikAlan/Screenshot_1.png"
+- "Assets/S\u0131navlar/MEBElektrikAlan/MEBElektrikAlan.asset"
 Dependencies: []
