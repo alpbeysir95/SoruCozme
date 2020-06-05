@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2168152100
+CRC: 646870028
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -55,4 +55,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_17:
       Name: meb12trigonometri
+      Dependencies: {}
+    Info_18:
+      Name: vipkurumsaltyt
       Dependencies: {}
