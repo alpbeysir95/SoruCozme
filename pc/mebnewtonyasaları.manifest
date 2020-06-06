@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 2127916781
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1cfd7c6fad68b459490eb88bfed4d1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a6a3f4e91b378e789590888d42e74f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c1b917d9e25b7b49af14866428fdb7e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/Screenshot_8.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/Screenshot_14.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/Screenshot_23.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/Screenshot_4.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/Screenshot_22.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/MEBNewtonYasalar\u0131.asset"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/Screenshot_10.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/Screenshot_9.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/Screenshot_17.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/Screenshot_7.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/Screenshot_12.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/Screenshot_13.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/Screenshot_21.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/Screenshot_11.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/Screenshot_16.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/Screenshot_15.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/Screenshot_20.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/Screenshot_5.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/Screenshot_18.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/Screenshot_24.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/Screenshot_3.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/Screenshot_6.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/Screenshot_1.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/Screenshot_19.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBNewtonYasalar\u0131/Screenshot_2.png"
+Dependencies: []
