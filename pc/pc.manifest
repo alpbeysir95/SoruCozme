@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2806934895
+CRC: 2902453728
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -70,4 +70,10 @@ AssetBundleManifest:
       Dependencies: {}
     Info_22:
       Name: mebfonksiyon2
+      Dependencies: {}
+    Info_23:
+      Name: mebatomteorisi
+      Dependencies: {}
+    Info_24:
+      Name: mebatomteorisi2
       Dependencies: {}
