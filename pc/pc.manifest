@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3344230667
+CRC: 851021222
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -85,4 +85,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_27:
       Name: "mebnewtonyasalar\u0131"
+      Dependencies: {}
+    Info_28:
+      Name: mebgazlar
       Dependencies: {}
