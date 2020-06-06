@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3097502084
+CRC: 3089772887
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 721664138fc04e8c0a75445c79e489c2
+    Hash: 352bd4473cacd82f8bc0177f050f454f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3da982f53e6e54c79d442ef4fb7d352e
@@ -18,17 +18,17 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- "Assets/S\u0131navlar/MEBElektrikPotansiyel/MEBElektrikPotansiyel.asset"
-- "Assets/S\u0131navlar/MEBElektrikPotansiyel/Screenshot_5.png"
-- "Assets/S\u0131navlar/MEBElektrikPotansiyel/Screenshot_2.png"
-- "Assets/S\u0131navlar/MEBElektrikPotansiyel/Screenshot_4.png"
-- "Assets/S\u0131navlar/MEBElektrikPotansiyel/Screenshot_3.png"
-- "Assets/S\u0131navlar/MEBElektrikPotansiyel/Screenshot_7.png"
-- "Assets/S\u0131navlar/MEBElektrikPotansiyel/Screenshot_8.png"
-- "Assets/S\u0131navlar/MEBElektrikPotansiyel/Screenshot_1.png"
-- "Assets/S\u0131navlar/MEBElektrikPotansiyel/Screenshot_9.png"
-- "Assets/S\u0131navlar/MEBElektrikPotansiyel/Screenshot_12.png"
-- "Assets/S\u0131navlar/MEBElektrikPotansiyel/Screenshot_10.png"
-- "Assets/S\u0131navlar/MEBElektrikPotansiyel/Screenshot_11.png"
-- "Assets/S\u0131navlar/MEBElektrikPotansiyel/Screenshot_6.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikPotansiyel/MEBElektrikPotansiyel.asset"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikPotansiyel/Screenshot_5.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikPotansiyel/Screenshot_2.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikPotansiyel/Screenshot_4.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikPotansiyel/Screenshot_3.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikPotansiyel/Screenshot_7.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikPotansiyel/Screenshot_8.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikPotansiyel/Screenshot_1.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikPotansiyel/Screenshot_9.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikPotansiyel/Screenshot_12.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikPotansiyel/Screenshot_10.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikPotansiyel/Screenshot_11.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikPotansiyel/Screenshot_6.png"
 Dependencies: []

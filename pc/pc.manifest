@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2436170701
+CRC: 735673480
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -58,4 +58,16 @@ AssetBundleManifest:
       Dependencies: {}
     Info_18:
       Name: vipkurumsaltyt
+      Dependencies: {}
+    Info_19:
+      Name: "mebdo\u011Fruanalitik2"
+      Dependencies: {}
+    Info_20:
+      Name: mebparabol2
+      Dependencies: {}
+    Info_21:
+      Name: mebfonksiyon
+      Dependencies: {}
+    Info_22:
+      Name: mebfonksiyon2
       Dependencies: {}

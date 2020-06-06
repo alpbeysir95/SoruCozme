@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1557091976
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3738cae7e7601a32204c46beedf892bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3da982f53e6e54c79d442ef4fb7d352e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c1b917d9e25b7b49af14866428fdb7e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/Screenshot_1.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/Screenshot_4.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/Screenshot_5.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2.asset"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/Screenshot_7.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/Screenshot_6.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/Screenshot_2.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/Screenshot_11.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/Screenshot_9.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/Screenshot_3.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/Screenshot_8.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/Screenshot_10.png"
+Dependencies: []

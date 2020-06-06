@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1863885399
+CRC: 3457832891
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a06be93f4700d0147e4eca1f4de4756b
+    Hash: 88f70012b44117b9ceced5407a85dc28
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3da982f53e6e54c79d442ef4fb7d352e
@@ -18,17 +18,17 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/MEBDo\u011FruAnalitik.asset"
-- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/Screenshot_3.png"
-- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/Screenshot_6.png"
-- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/Screenshot_1.png"
-- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/Screenshot_12.png"
-- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/Screenshot_9.png"
-- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/Screenshot_5.png"
-- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/Screenshot_2.png"
-- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/Screenshot_10.png"
-- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/Screenshot_8.png"
-- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/Screenshot_11.png"
-- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/Screenshot_7.png"
-- "Assets/S\u0131navlar/MEBDo\u011FruAnalitik/Screenshot_4.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Do\u011Frunun Analiti\u011Fi/MEBDo\u011FruAnalitik/MEBDo\u011FruAnalitik.asset"
+- "Assets/S\u0131navlar/Testler/Matematik/Do\u011Frunun Analiti\u011Fi/MEBDo\u011FruAnalitik/Screenshot_3.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Do\u011Frunun Analiti\u011Fi/MEBDo\u011FruAnalitik/Screenshot_6.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Do\u011Frunun Analiti\u011Fi/MEBDo\u011FruAnalitik/Screenshot_1.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Do\u011Frunun Analiti\u011Fi/MEBDo\u011FruAnalitik/Screenshot_12.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Do\u011Frunun Analiti\u011Fi/MEBDo\u011FruAnalitik/Screenshot_9.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Do\u011Frunun Analiti\u011Fi/MEBDo\u011FruAnalitik/Screenshot_5.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Do\u011Frunun Analiti\u011Fi/MEBDo\u011FruAnalitik/Screenshot_2.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Do\u011Frunun Analiti\u011Fi/MEBDo\u011FruAnalitik/Screenshot_10.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Do\u011Frunun Analiti\u011Fi/MEBDo\u011FruAnalitik/Screenshot_8.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Do\u011Frunun Analiti\u011Fi/MEBDo\u011FruAnalitik/Screenshot_11.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Do\u011Frunun Analiti\u011Fi/MEBDo\u011FruAnalitik/Screenshot_7.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Do\u011Frunun Analiti\u011Fi/MEBDo\u011FruAnalitik/Screenshot_4.png"
 Dependencies: []

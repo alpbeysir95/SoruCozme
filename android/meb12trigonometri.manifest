@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3912754485
+CRC: 941286194
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 43e978e82f7fa3b9c1d6a6a7bc7bdde2
+    Hash: 5cc541d0fa1eac5a0479f9b2813b2d6b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3da982f53e6e54c79d442ef4fb7d352e
@@ -18,17 +18,17 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- "Assets/S\u0131navlar/MEB12Trigonometri/Screenshot_11.png"
-- "Assets/S\u0131navlar/MEB12Trigonometri/Screenshot_7.png"
-- "Assets/S\u0131navlar/MEB12Trigonometri/MEB12Trigonometri.asset"
-- "Assets/S\u0131navlar/MEB12Trigonometri/Screenshot_4.png"
-- "Assets/S\u0131navlar/MEB12Trigonometri/Screenshot_6.png"
-- "Assets/S\u0131navlar/MEB12Trigonometri/Screenshot_3.png"
-- "Assets/S\u0131navlar/MEB12Trigonometri/Screenshot_8.png"
-- "Assets/S\u0131navlar/MEB12Trigonometri/Screenshot_5.png"
-- "Assets/S\u0131navlar/MEB12Trigonometri/Screenshot_1.png"
-- "Assets/S\u0131navlar/MEB12Trigonometri/Screenshot_2.png"
-- "Assets/S\u0131navlar/MEB12Trigonometri/Screenshot_9.png"
-- "Assets/S\u0131navlar/MEB12Trigonometri/Screenshot_10.png"
-- "Assets/S\u0131navlar/MEB12Trigonometri/Screenshot_12.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/MEB12Trigonometri/Screenshot_11.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/MEB12Trigonometri/Screenshot_7.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/MEB12Trigonometri/MEB12Trigonometri.asset"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/MEB12Trigonometri/Screenshot_4.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/MEB12Trigonometri/Screenshot_6.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/MEB12Trigonometri/Screenshot_3.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/MEB12Trigonometri/Screenshot_8.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/MEB12Trigonometri/Screenshot_5.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/MEB12Trigonometri/Screenshot_1.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/MEB12Trigonometri/Screenshot_2.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/MEB12Trigonometri/Screenshot_9.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/MEB12Trigonometri/Screenshot_10.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/MEB12Trigonometri/Screenshot_12.png"
 Dependencies: []

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 308355317
+CRC: 1488858381
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7f593597a0be5a8e690af1b3247ea95c
+    Hash: 105320369843ab271af0d113de314689
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3da982f53e6e54c79d442ef4fb7d352e
@@ -18,17 +18,17 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- "Assets/S\u0131navlar/MEBParabol/Screenshot_3.png"
-- "Assets/S\u0131navlar/MEBParabol/MEBParabol.asset"
-- "Assets/S\u0131navlar/MEBParabol/Screenshot_1.png"
-- "Assets/S\u0131navlar/MEBParabol/Screenshot_10.png"
-- "Assets/S\u0131navlar/MEBParabol/Screenshot_11.png"
-- "Assets/S\u0131navlar/MEBParabol/Screenshot_5.png"
-- "Assets/S\u0131navlar/MEBParabol/Screenshot_9.png"
-- "Assets/S\u0131navlar/MEBParabol/Screenshot_4.png"
-- "Assets/S\u0131navlar/MEBParabol/Screenshot_6.png"
-- "Assets/S\u0131navlar/MEBParabol/Screenshot_7.png"
-- "Assets/S\u0131navlar/MEBParabol/Screenshot_2.png"
-- "Assets/S\u0131navlar/MEBParabol/Screenshot_8.png"
-- "Assets/S\u0131navlar/MEBParabol/Screenshot_12.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBParabol/Screenshot_3.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBParabol/MEBParabol.asset"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBParabol/Screenshot_1.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBParabol/Screenshot_10.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBParabol/Screenshot_11.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBParabol/Screenshot_5.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBParabol/Screenshot_9.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBParabol/Screenshot_4.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBParabol/Screenshot_6.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBParabol/Screenshot_7.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBParabol/Screenshot_2.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBParabol/Screenshot_8.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBParabol/Screenshot_12.png"
 Dependencies: []

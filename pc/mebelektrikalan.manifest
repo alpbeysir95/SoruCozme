@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 581413073
+CRC: 3162240881
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e22e116453319dc2fac2935f70fbc8c1
+    Hash: 744ac15327f7cb3ab172cabd1e760708
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3da982f53e6e54c79d442ef4fb7d352e
@@ -18,17 +18,17 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- "Assets/S\u0131navlar/MEBElektrikAlan/Screenshot_10.png"
-- "Assets/S\u0131navlar/MEBElektrikAlan/Screenshot_6.png"
-- "Assets/S\u0131navlar/MEBElektrikAlan/Screenshot_5.png"
-- "Assets/S\u0131navlar/MEBElektrikAlan/Screenshot_7.png"
-- "Assets/S\u0131navlar/MEBElektrikAlan/Screenshot_4.png"
-- "Assets/S\u0131navlar/MEBElektrikAlan/Screenshot_9.png"
-- "Assets/S\u0131navlar/MEBElektrikAlan/Screenshot_11.png"
-- "Assets/S\u0131navlar/MEBElektrikAlan/Screenshot_2.png"
-- "Assets/S\u0131navlar/MEBElektrikAlan/Screenshot_3.png"
-- "Assets/S\u0131navlar/MEBElektrikAlan/Screenshot_12.png"
-- "Assets/S\u0131navlar/MEBElektrikAlan/Screenshot_8.png"
-- "Assets/S\u0131navlar/MEBElektrikAlan/Screenshot_1.png"
-- "Assets/S\u0131navlar/MEBElektrikAlan/MEBElektrikAlan.asset"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikAlan/Screenshot_10.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikAlan/Screenshot_6.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikAlan/Screenshot_5.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikAlan/Screenshot_7.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikAlan/Screenshot_4.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikAlan/Screenshot_9.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikAlan/Screenshot_11.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikAlan/Screenshot_2.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikAlan/Screenshot_3.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikAlan/Screenshot_12.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikAlan/Screenshot_8.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikAlan/Screenshot_1.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikAlan/MEBElektrikAlan.asset"
 Dependencies: []
