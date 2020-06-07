@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 851021222
+CRC: 2616703402
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -88,4 +88,19 @@ AssetBundleManifest:
       Dependencies: {}
     Info_28:
       Name: mebgazlar
+      Dependencies: {}
+    Info_29:
+      Name: mebikiboyuttahareket
+      Dependencies: {}
+    Info_30:
+      Name: mebbirboyuttahareket
+      Dependencies: {}
+    Info_31:
+      Name: mebenerjihareket
+      Dependencies: {}
+    Info_32:
+      Name: mebitmemomentum
+      Dependencies: {}
+    Info_33:
+      Name: "mebelektriks\u0131\u011Fa"
       Dependencies: {}

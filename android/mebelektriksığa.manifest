@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1540656416
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 85197cf8781ea8407537724435d7d8e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a6a3f4e91b378e789590888d42e74f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c1b917d9e25b7b49af14866428fdb7e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikS\u0131\u011Fa/Screenshot_1.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikS\u0131\u011Fa/Screenshot_3.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikS\u0131\u011Fa/Screenshot_5.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikS\u0131\u011Fa/Screenshot_10.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikS\u0131\u011Fa/Screenshot_6.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikS\u0131\u011Fa/Screenshot_2.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikS\u0131\u011Fa/Screenshot_4.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikS\u0131\u011Fa/Screenshot_7.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikS\u0131\u011Fa/MEBElektrikS\u0131\u011Fa.asset"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikS\u0131\u011Fa/Screenshot_9.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikS\u0131\u011Fa/Screenshot_8.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEBElektrikS\u0131\u011Fa/Screenshot_11.png"
+Dependencies: []

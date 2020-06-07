@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3504382192
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7caf1719da81fa6572507c785eb76dda
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a6a3f4e91b378e789590888d42e74f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c1b917d9e25b7b49af14866428fdb7e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/Screenshot_8.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/Screenshot_22.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/Screenshot_10.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/Screenshot_18.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/Screenshot_24.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/MEB\u0130tmeMomentum.asset"
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/Screenshot_7.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/Screenshot_13.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/Screenshot_15.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/Screenshot_19.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/Screenshot_14.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/Screenshot_9.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/Screenshot_21.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/Screenshot_5.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/Screenshot_11.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/Screenshot_16.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/Screenshot_3.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/Screenshot_12.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/Screenshot_20.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/Screenshot_17.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/Screenshot_4.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/Screenshot_1.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/Screenshot_23.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/Screenshot_2.png"
+- "Assets/S\u0131navlar/Testler/Fizik/MEB\u0130tmeMomentum/Screenshot_6.png"
+Dependencies: []
