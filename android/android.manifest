@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3997970244
+CRC: 3644286160
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -103,4 +103,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_33:
       Name: "mebelektriks\u0131\u011Fa"
+      Dependencies: {}
+    Info_34:
+      Name: vipkurumsaltyt2
       Dependencies: {}
