@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1612825989
+CRC: 2132251678
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d3c6f50641af24bd9d1aefb44b9b7241
+    Hash: 781abb26382ef049b7798bf1a3d80fdb
   TypeTreeHash:
     serializedVersion: 2
     Hash: a6a3f4e91b378e789590888d42e74f17
@@ -18,16 +18,16 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/Screenshot_1.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/Screenshot_4.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/Screenshot_5.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2_Soru1.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2_Soru4.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2_Soru5.png"
 - "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2.asset"
-- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/Screenshot_7.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/Screenshot_6.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/Screenshot_2.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/Screenshot_11.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/Screenshot_9.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/Screenshot_3.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/Screenshot_8.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/Screenshot_10.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2_Soru7.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2_Soru6.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2_Soru2.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2_Soru11.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2_Soru9.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2_Soru3.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2_Soru8.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2_Soru10.png"
 Dependencies: []

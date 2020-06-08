@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3331078801
+CRC: 94813831
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8a8aa0fe1aa0b49fb91e05d9ff1a593c
+    Hash: 6f95fdea4a10ebdcc030e9f43e36e2ca
   TypeTreeHash:
     serializedVersion: 2
     Hash: a6a3f4e91b378e789590888d42e74f17
@@ -18,17 +18,17 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/Screenshot_3.png"
-- "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/Screenshot_7.png"
-- "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/Screenshot_9.png"
-- "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/Screenshot_1.png"
-- "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/Screenshot_4.png"
-- "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/Screenshot_12.png"
-- "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/Screenshot_8.png"
+- "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/MEBTAritmeti\u011Fi_Soru3.png"
+- "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/MEBTAritmeti\u011Fi_Soru7.png"
+- "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/MEBTAritmeti\u011Fi_Soru9.png"
+- "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/MEBTAritmeti\u011Fi_Soru1.png"
+- "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/MEBTAritmeti\u011Fi_Soru4.png"
+- "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/MEBTAritmeti\u011Fi_Soru12.png"
+- "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/MEBTAritmeti\u011Fi_Soru8.png"
 - "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/MEBTAritmeti\u011Fi.asset"
-- "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/Screenshot_11.png"
-- "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/Screenshot_10.png"
-- "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/Screenshot_6.png"
-- "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/Screenshot_2.png"
-- "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/Screenshot_5.png"
+- "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/MEBTAritmeti\u011Fi_Soru11.png"
+- "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/MEBTAritmeti\u011Fi_Soru10.png"
+- "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/MEBTAritmeti\u011Fi_Soru6.png"
+- "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/MEBTAritmeti\u011Fi_Soru2.png"
+- "Assets/S\u0131navlar/Testler/Matematik/MEBTAritmeti\u011Fi/MEBTAritmeti\u011Fi_Soru5.png"
 Dependencies: []

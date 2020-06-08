@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3705899588
+CRC: 2735407180
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fbfcb9e7de6fc5fb651401e62e7287be
+    Hash: 4b73f8b13c89b2c14879b3d59f61e079
   TypeTreeHash:
     serializedVersion: 2
     Hash: a6a3f4e91b378e789590888d42e74f17
@@ -19,16 +19,16 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/MEBElektrikPotansiyel.asset"
-- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/Screenshot_5.png"
-- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/Screenshot_2.png"
-- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/Screenshot_4.png"
-- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/Screenshot_3.png"
-- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/Screenshot_7.png"
-- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/Screenshot_8.png"
-- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/Screenshot_1.png"
-- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/Screenshot_9.png"
-- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/Screenshot_12.png"
-- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/Screenshot_10.png"
-- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/Screenshot_11.png"
-- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/Screenshot_6.png"
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/MEBElektrikPotansiyel_Soru5.png"
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/MEBElektrikPotansiyel_Soru2.png"
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/MEBElektrikPotansiyel_Soru4.png"
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/MEBElektrikPotansiyel_Soru3.png"
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/MEBElektrikPotansiyel_Soru7.png"
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/MEBElektrikPotansiyel_Soru8.png"
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/MEBElektrikPotansiyel_Soru1.png"
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/MEBElektrikPotansiyel_Soru9.png"
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/MEBElektrikPotansiyel_Soru12.png"
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/MEBElektrikPotansiyel_Soru10.png"
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/MEBElektrikPotansiyel_Soru11.png"
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikPotansiyel/MEBElektrikPotansiyel_Soru6.png"
 Dependencies: []

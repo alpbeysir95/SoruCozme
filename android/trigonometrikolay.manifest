@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1077078770
+CRC: 1126557271
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ed86b7b40f1baeda3c887ee6081633cb
+    Hash: caf1952e6401baf2036c2f592f6660df
   TypeTreeHash:
     serializedVersion: 2
     Hash: a6a3f4e91b378e789590888d42e74f17
@@ -19,24 +19,24 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/TrigonometriKolay.asset"
-- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/Screenshot_9.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/Screenshot_2.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/Screenshot_11.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/Soru2.PNG"
-- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/Screenshot_8.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/Screenshot_7.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/Screenshot_12.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/Soru3.PNG"
-- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/Screenshot_6.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/Screenshot_5.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/Screenshot_4.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/Screenshot_3.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/Screenshot_10.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/Screenshot_1.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/Soru4.PNG"
-- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/Screenshot_16.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/Screenshot_15.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/Screenshot_13.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/Screenshot_14.png"
-- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/Soru1.PNG"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/TrigonometriKolay_Soru9.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/TrigonometriKolay_Soru2.PNG"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/TrigonometriKolay_Soru11.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/TrigonometriKolay_Soru20.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/TrigonometriKolay_Soru8.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/TrigonometriKolay_Soru7.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/TrigonometriKolay_Soru12.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/TrigonometriKolay_Soru6.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/TrigonometriKolay_Soru5.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/TrigonometriKolay_Soru4.PNG"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/TrigonometriKolay_Soru3.PNG"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/TrigonometriKolay_Soru18.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/TrigonometriKolay_Soru10.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/TrigonometriKolay_Soru1.PNG"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/TrigonometriKolay_Soru16.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/TrigonometriKolay_Soru15.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/TrigonometriKolay_Soru13.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/TrigonometriKolay_Soru14.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/TrigonometriKolay_Soru19.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Trigonometri/TrigonometriKolay/TrigonometriKolay_Soru17.png"
 Dependencies: []
