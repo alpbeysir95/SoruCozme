@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 903273454
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 099d9aa6f0869a3204e8c594c3b0c736
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ac4fc45483cb8e7cad483398df97a40b
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 158b06cfed2e4024b9a9e17982dc5f3e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Kavramlar/GayeVeNizam.asset
+- Assets/Kavramlar/Tevhid.asset
+Dependencies: []

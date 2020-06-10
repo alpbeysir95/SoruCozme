@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2617971245
+CRC: 992185500
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -106,4 +106,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_34:
       Name: vipkurumsaltyt2
+      Dependencies: {}
+    Info_35:
+      Name: _kavramlar
       Dependencies: {}
