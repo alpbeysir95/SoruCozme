@@ -1,19 +1,18 @@
 ManifestFileVersion: 0
-CRC: 3205843291
+CRC: 2373567606
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9a6284ec0ec3f8a8a76e1040b9a98e62
+    Hash: 6f3acf8c08e5dfab2b9c77047bdecc1b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: b7727176884e0ce54e0c9c56b8116e43
+    Hash: b40d3d6f950e049df94fab5c78c4afa8
 HashAppended: 0
 ClassTypes:
 - Class: 114
-  Script: {fileID: 11500000, guid: 158b06cfed2e4024b9a9e17982dc5f3e, type: 3}
+  Script: {fileID: 11500000, guid: 79abbdae9e4d2714189197b294ed380f, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 Assets:
-- Assets/Kavramlar/GayeVeNizam.asset
-- Assets/Kavramlar/Tevhid.asset
+- "Assets/Kavramlar/Din K\xFClt\xFCr\xFC ve Ahlak Bilgisi.asset"
 Dependencies: []
