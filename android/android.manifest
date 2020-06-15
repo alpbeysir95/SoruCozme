@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1519266399
+CRC: 3672807621
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -109,4 +109,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_35:
       Name: "_di\u011Fer"
+      Dependencies: {}
+    Info_36:
+      Name: "t\xF6der2020tyt3"
       Dependencies: {}
