@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3672807621
+CRC: 1827445546
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -112,4 +112,13 @@ AssetBundleManifest:
       Dependencies: {}
     Info_36:
       Name: "t\xF6der2020tyt3"
+      Dependencies: {}
+    Info_37:
+      Name: mebsinirendokrin
+      Dependencies: {}
+    Info_38:
+      Name: mebsinirendokrin2
+      Dependencies: {}
+    Info_39:
+      Name: mebsinirendokrin3
       Dependencies: {}
