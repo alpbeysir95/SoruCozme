@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2243456614
+CRC: 197488893
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -124,4 +124,10 @@ AssetBundleManifest:
       Dependencies: {}
     Info_40:
       Name: "mebduyuorganlar\u0131"
+      Dependencies: {}
+    Info_41:
+      Name: mebdestekhareket
+      Dependencies: {}
+    Info_42:
+      Name: mebdestekhareket2
       Dependencies: {}
