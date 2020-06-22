@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3249559130
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d658bd961cd17aa28a4ae66fd1f5551c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a6a3f4e91b378e789590888d42e74f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c1b917d9e25b7b49af14866428fdb7e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikAlan/MEBElektrikAlan_Soru10.png"
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikAlan/MEBElektrikAlan_Soru6.png"
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikAlan/MEBElektrikAlan_Soru5.png"
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikAlan/MEBElektrikAlan_Soru7.png"
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikAlan/MEBElektrikAlan_Soru4.png"
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikAlan/MEBElektrikAlan_Soru9.png"
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikAlan/MEBElektrikAlan_Soru11.png"
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikAlan/MEBElektrikAlan_Soru2.png"
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikAlan/MEBElektrikAlan_Soru3.png"
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikAlan/MEBElektrikAlan_Soru12.png"
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikAlan/MEBElektrikAlan_Soru8.png"
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikAlan/MEBElektrikAlan_Soru1.png"
+- "Assets/S\u0131navlar/Testler/Fizik/Elektrik/MEBElektrikAlan/MEBElektrikAlan.asset"
+Dependencies: []
