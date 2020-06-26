@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 2014097116
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b08ec0eb57b18b37f79a71e0f64b2a7a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2dc6dd88325ba175dcb17dfa3cd480d3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c1b917d9e25b7b49af14866428fdb7e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar_Soru10.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar_Soru2.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar_Soru20.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar_Soru3.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar_Soru17.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar_Soru15.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar_Soru23.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar_Soru8.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar_Soru5.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar_Soru9.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar_Soru14.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar_Soru11.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar_Soru18.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar_Soru4.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar.asset"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar_Soru22.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar_Soru16.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar_Soru24.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar_Soru12.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar_Soru19.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar_Soru1.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar_Soru6.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar_Soru21.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar_Soru13.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/Fen11Tekrar/Fen11Tekrar_Soru7.png"
+Dependencies: []

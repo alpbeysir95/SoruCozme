@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 688809064
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f0e4b33e7f8376d5fbb764c425d3d6c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2dc6dd88325ba175dcb17dfa3cd480d3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c1b917d9e25b7b49af14866428fdb7e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2_Soru1.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2_Soru4.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2_Soru5.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2.asset"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2_Soru7.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2_Soru6.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2_Soru2.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2_Soru11.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2_Soru9.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2_Soru3.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2_Soru8.png"
+- "Assets/S\u0131navlar/Testler/Matematik/Fonksiyonlar/MEBFonksiyon2/MEBFonksiyon2_Soru10.png"
+Dependencies: []

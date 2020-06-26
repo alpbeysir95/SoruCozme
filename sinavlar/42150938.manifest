@@ -1,0 +1,72 @@
+ManifestFileVersion: 0
+CRC: 3352408828
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 24f6d88261aae73783c1027665d51127
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2dc6dd88325ba175dcb17dfa3cd480d3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c1b917d9e25b7b49af14866428fdb7e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru30.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru4.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru25.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru21.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru28.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru17.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru38.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru11.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru18.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru16.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru5.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru20.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru42.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru9.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru41.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full.asset"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru23.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru37.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru19.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru3.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru24.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru2.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru7.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru27.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru49.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru36.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru48.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru44.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru22.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru43.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru14.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru46.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru26.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru15.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru47.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru40.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru31.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru1.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru32.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru29.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru39.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru10.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru33.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru13.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru12.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru8.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru6.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru35.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru34.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru45.png"
+- "Assets/S\u0131navlar/Denemeler/11. S\u0131n\u0131f/MEB11Full/MEB11Full_Soru50.png"
+Dependencies: []

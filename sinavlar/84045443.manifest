@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1054042167
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1f5d234f42821ffc08dc840af9bc4ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2dc6dd88325ba175dcb17dfa3cd480d3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c1b917d9e25b7b49af14866428fdb7e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- "Assets/S\u0131navlar/Testler/Biyoloji/Sinir ve Endokrin Sistemi/MEBSinirEndokrin3/MEBSinirEndokrin3_Soru8.png"
+- "Assets/S\u0131navlar/Testler/Biyoloji/Sinir ve Endokrin Sistemi/MEBSinirEndokrin3/MEBSinirEndokrin3_Soru1.png"
+- "Assets/S\u0131navlar/Testler/Biyoloji/Sinir ve Endokrin Sistemi/MEBSinirEndokrin3/MEBSinirEndokrin3_Soru12.png"
+- "Assets/S\u0131navlar/Testler/Biyoloji/Sinir ve Endokrin Sistemi/MEBSinirEndokrin3/MEBSinirEndokrin3_Soru4.png"
+- "Assets/S\u0131navlar/Testler/Biyoloji/Sinir ve Endokrin Sistemi/MEBSinirEndokrin3/MEBSinirEndokrin3_Soru6.png"
+- "Assets/S\u0131navlar/Testler/Biyoloji/Sinir ve Endokrin Sistemi/MEBSinirEndokrin3/MEBSinirEndokrin3_Soru9.png"
+- "Assets/S\u0131navlar/Testler/Biyoloji/Sinir ve Endokrin Sistemi/MEBSinirEndokrin3/MEBSinirEndokrin3_Soru10.png"
+- "Assets/S\u0131navlar/Testler/Biyoloji/Sinir ve Endokrin Sistemi/MEBSinirEndokrin3/MEBSinirEndokrin3_Soru11.png"
+- "Assets/S\u0131navlar/Testler/Biyoloji/Sinir ve Endokrin Sistemi/MEBSinirEndokrin3/MEBSinirEndokrin3_Soru7.png"
+- "Assets/S\u0131navlar/Testler/Biyoloji/Sinir ve Endokrin Sistemi/MEBSinirEndokrin3/MEBSinirEndokrin3_Soru5.png"
+- "Assets/S\u0131navlar/Testler/Biyoloji/Sinir ve Endokrin Sistemi/MEBSinirEndokrin3/MEBSinirEndokrin3_Soru3.png"
+- "Assets/S\u0131navlar/Testler/Biyoloji/Sinir ve Endokrin Sistemi/MEBSinirEndokrin3/MEBSinirEndokrin3_Soru2.png"
+- "Assets/S\u0131navlar/Testler/Biyoloji/Sinir ve Endokrin Sistemi/MEBSinirEndokrin3/MEBSinirEndokrin3.asset"
+Dependencies: []
