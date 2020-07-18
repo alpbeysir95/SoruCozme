@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 997835557
+CRC: 1286996491
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 993d09e31c38c3e14847e432e981613c
+    Hash: 807e36f945f06ae304728c1369a881d7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8a66eaedb2c5d119710a902be7725c05
+    Hash: 6b430564b7f2920127738670cca2c3ec
 HashAppended: 0
 ClassTypes:
 - Class: 49
@@ -16,6 +16,6 @@ ClassTypes:
 - Class: 115
   Script: {instanceID: 0}
 Assets:
+- "Assets/Di\u011Fer/H\u0131zl\u0131 Sorular/Kimya.asset"
 - "Assets/Di\u011Fer/Yaz\u0131l\u0131\u015Flar/Yaz\u0131l\u0131\u015Flar.txt"
-- "Assets/Di\u011Fer/Kavramlar/Din K\xFClt\xFCr\xFC ve Ahlak Bilgisi.asset"
 Dependencies: []
