@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3770285319
+CRC: 2579432182
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2336da1423a20a804f8e0267e65034b3
+    Hash: 13be4a8a2818f2ee90525f244c40af68
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 2dc6dd88325ba175dcb17dfa3cd480d3
+    Hash: c5e818d1faa80b8131f015411e5ce405
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -18,45 +18,45 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru10.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru33.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru37.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru4.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru18.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru27.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru40.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru31.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru39.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru36.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru30.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru14.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru16.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru21.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru3.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1.asset"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru22.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru25.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru29.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru7.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru5.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru8.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru1.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru28.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru17.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru35.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru15.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru19.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru13.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru6.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru12.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru24.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru26.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru11.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru38.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru23.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru20.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru9.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru34.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru32.png"
-- "Assets/S\u0131navlar/Denemeler/TYT/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru2.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru10.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru33.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru37.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru4.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru18.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru27.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru40.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru31.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru39.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru36.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru30.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru14.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru16.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru21.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru3.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1.asset"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru22.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru25.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru29.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru7.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru5.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru8.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru1.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru28.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru17.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru35.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru15.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru19.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru13.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru6.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru12.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru24.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru26.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru11.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru38.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru23.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru20.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru9.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru34.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru32.png"
+- "Assets/S\u0131navlar/Denemeler/TYT/T\xFCrk\xE7e/TYTT\xFCrk\xE7e1/TYTT\xFCrk\xE7e1_Soru2.png"
 Dependencies: []
